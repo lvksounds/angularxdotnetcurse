@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QfzpUS5KwlBJceg51Ln7rZW1Wa3B1cEkrKc7hDpSQPYFPM1TxMXVfW1Ho+eUXgSgSWlHxjy/JMpmyeDw19hQ9Q==",
+  "dgSpecHash": "pVfjn87VJ2s/HEh8VaV3qGLLdBUAmvQHcyMg/jmuCybpEzw5qHex0qWsJslzjDbrjHfCXLZ7XZf4VQ6pd/L95A==",
   "success": true,
-  "projectFilePath": "c:\\Users\\lvkso\\OneDrive\\Documentos\\programação\\Cursos\\Udemy\\Seja Full-Stack com .NET Web API e Angular + EF Core - 2022\\PROEVENTOS\\BACK\\src\\ProEventos.API\\ProEventos.API.csproj",
+  "projectFilePath": "C:\\Users\\lvkso\\OneDrive\\Documentos\\programação\\Cursos\\Udemy\\Seja Full-Stack com .NET Web API e Angular + EF Core - 2022\\PROEVENTOS\\BACK\\src\\ProEventos.API\\ProEventos.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lvkso\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\lvkso\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

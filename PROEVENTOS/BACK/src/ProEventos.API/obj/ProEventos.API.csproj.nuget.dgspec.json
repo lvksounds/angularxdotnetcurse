@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\lvkso\\OneDrive\\Documentos\\programação\\Cursos\\Udemy\\Seja Full-Stack com .NET Web API e Angular + EF Core - 2022\\PROEVENTOS\\BACK\\src\\ProEventos.API\\ProEventos.API.csproj": {}
+    "C:\\Users\\lvkso\\OneDrive\\Documentos\\programação\\Cursos\\Udemy\\Seja Full-Stack com .NET Web API e Angular + EF Core - 2022\\PROEVENTOS\\BACK\\src\\ProEventos.API\\ProEventos.API.csproj": {}
   },
   "projects": {
-    "c:\\Users\\lvkso\\OneDrive\\Documentos\\programação\\Cursos\\Udemy\\Seja Full-Stack com .NET Web API e Angular + EF Core - 2022\\PROEVENTOS\\BACK\\src\\ProEventos.API\\ProEventos.API.csproj": {
+    "C:\\Users\\lvkso\\OneDrive\\Documentos\\programação\\Cursos\\Udemy\\Seja Full-Stack com .NET Web API e Angular + EF Core - 2022\\PROEVENTOS\\BACK\\src\\ProEventos.API\\ProEventos.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\lvkso\\OneDrive\\Documentos\\programação\\Cursos\\Udemy\\Seja Full-Stack com .NET Web API e Angular + EF Core - 2022\\PROEVENTOS\\BACK\\src\\ProEventos.API\\ProEventos.API.csproj",
+        "projectUniqueName": "C:\\Users\\lvkso\\OneDrive\\Documentos\\programação\\Cursos\\Udemy\\Seja Full-Stack com .NET Web API e Angular + EF Core - 2022\\PROEVENTOS\\BACK\\src\\ProEventos.API\\ProEventos.API.csproj",
         "projectName": "ProEventos.API",
-        "projectPath": "c:\\Users\\lvkso\\OneDrive\\Documentos\\programação\\Cursos\\Udemy\\Seja Full-Stack com .NET Web API e Angular + EF Core - 2022\\PROEVENTOS\\BACK\\src\\ProEventos.API\\ProEventos.API.csproj",
+        "projectPath": "C:\\Users\\lvkso\\OneDrive\\Documentos\\programação\\Cursos\\Udemy\\Seja Full-Stack com .NET Web API e Angular + EF Core - 2022\\PROEVENTOS\\BACK\\src\\ProEventos.API\\ProEventos.API.csproj",
         "packagesPath": "C:\\Users\\lvkso\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\lvkso\\OneDrive\\Documentos\\programação\\Cursos\\Udemy\\Seja Full-Stack com .NET Web API e Angular + EF Core - 2022\\PROEVENTOS\\BACK\\src\\ProEventos.API\\obj\\",
+        "outputPath": "C:\\Users\\lvkso\\OneDrive\\Documentos\\programação\\Cursos\\Udemy\\Seja Full-Stack com .NET Web API e Angular + EF Core - 2022\\PROEVENTOS\\BACK\\src\\ProEventos.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lvkso\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,6 +21,7 @@
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -70,8 +71,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -83,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }
